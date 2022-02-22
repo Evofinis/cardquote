@@ -1,0 +1,23 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box__title {
+}
+
+.box__quote {
+  text-align: center;
+}
+
+.box__btn {
+  padding: 5px 10px;
+  background-color: royalblue;
+  border-color: 2px solid yellowgreen;
+  border-radius: 4px;
+}
+
+.box__btn:hover {
+  background-color: thistle;
+}
